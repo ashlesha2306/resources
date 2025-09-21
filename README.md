@@ -13,6 +13,5 @@ It’s organized so that anyone (including me 😅) can quickly find what they n
 - Organize my learning materials in one place
 - Share useful code snippets and notes
 - Track my progress in programming
-
 ---
 ✨ Contributions are welcome! (Fork & star 🌟)
